@@ -56,7 +56,7 @@
 
 ## 🌟 Overview
 
-**ListIQ - Intelligence** is a high-performance, full-stack SaaS platform built to give Amazon sellers and smart shoppers a definitive data advantage. 
+**ListIQ ** is a high-performance, full-stack SaaS platform built to give Amazon sellers and smart shoppers a definitive data advantage. 
 
 In a matter of seconds, ListIQ processes live product data to evaluate a listing across **5 critical performance pillars**, extracts genuine **buyer pain points** directly from 1–2★ reviews, and generates a **data-backed, prioritized fix plan** to boost BSR and conversions. The entire experience is seamlessly guided by **Kiti** — an AI co-pilot featuring a robust 20-intent engine that demystifies everything from A9 algorithms to PPC and competitor gaps.
 
